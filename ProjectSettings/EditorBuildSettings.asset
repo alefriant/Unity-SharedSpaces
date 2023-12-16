@@ -23,7 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SharedSpaces/Scenes/PurpleRoom.unity
     guid: 215e8448228742746bf2d3d25ef9d80e
-  - enabled: 0
+  - enabled: 1
     path: Assets/SharedSpaces/Scenes/TransitionMap.unity
     guid: 79bd447fd0f2ae64aae0fe119f73aace
   m_configObjects:
